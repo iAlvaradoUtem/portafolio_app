@@ -1,9 +1,17 @@
 # Portafolio Móvil - Marca Personal (Flutter)
 
-> **Evaluación Recuperativa - Computación Móvil** > **Universidad Tecnológica Metropolitana** > **Estudiante:** Ignacio Alvarado
-> **Asignatura:** EFE68500 - COMPUTACION MOVIL 
-> **Profesor:** Sebastián Salazar Molina  
-> **Fecha:** Diciembre 2025
+> **Evaluación Recuperativa - Computación Móvil**
+>
+> **Estudiante:** Ignacio Alvarado Toledo
+>
+> **Asignatura:** EFE68500 - COMPUTACION MOVIL
+>
+> **Profesor:** Sebastián Salazar Molina
+>
+> **Fecha:** 11 de Diciembre 2025
+> 
+>  **Universidad Tecnológica Metropolitana**
+
 
 ## 📱 Descripción del Proyecto
 
@@ -61,7 +69,7 @@ A continuación se presenta una vista previa de la aplicación en funcionamiento
 *(El perfil destaca la identidad visual, mientras que las listas usan tarjetas expandibles)*
 
 ### Proyectos y Contacto
-| Proyectos (Expandido) | Contacto | Menú de Navegación |
+| Proyectos | Contacto | Menú de Navegación |
 |:---:|:---:|:---:|
 | ![Pantalla Proyectos](assets/screenshots/projects_screen.png) | ![Pantalla Contacto](assets/screenshots/contact_screen.png) | ![Navegación](assets/screenshots/nav_bar.png) |
 
